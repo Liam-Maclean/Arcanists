@@ -1,0 +1,165 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="GameProject.Game1" Collapsed="true">
+    <Position X="16.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>4BQAEEAAAACAAwAAAACAAAAAAAAAQAgAAAAAAAIAAAQ=</HashCode>
+      <FileName>Game1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameProject.BasicGraphic" Collapsed="true">
+    <Position X="7.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAAAAAAAAAAAEAAAAAAAAAAAAAAAQAAAAAAAA=</HashCode>
+      <FileName>GraphicsClass.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameProject.MovingGraphic" Collapsed="true">
+    <Position X="7.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAgAAEAAAAQAQgAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GraphicsClass.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameProject.AnimatedGraphic" Collapsed="true">
+    <Position X="8.5" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAABAAAEAAIAAAQAAAAAAAAAQAAAAAAA=</HashCode>
+      <FileName>GraphicsClass.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameProject.Projectile" Collapsed="true">
+    <Position X="9.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQAIAAAAAAAAGAAAAAAQAAAAAAAAAAAAAQAAA=</HashCode>
+      <FileName>GraphicsClass.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameProject.rain" Collapsed="true">
+    <Position X="0.5" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAACEAAAAAAQAAAAAAAAAAAAAQAAA=</HashCode>
+      <FileName>GraphicsClass.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameProject.Quiver" Collapsed="true">
+    <Position X="2.75" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAAAAAAAAEAAAAAAQAAAAAAAAAAAAAgAAA=</HashCode>
+      <FileName>GraphicsClass.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameProject.RotationInd" Collapsed="true">
+    <Position X="14" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQAAAAAIAAACEAIAAAAQAAAAAAAAAAAAAQAAA=</HashCode>
+      <FileName>GraphicsClass.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameProject.Chests" Collapsed="true">
+    <Position X="11.75" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAEEAAAAAQAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GraphicsClass.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameProject.Powerup" Collapsed="true">
+    <Position X="5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAEAAAAAAQAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GraphicsClass.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameProject.Map" Collapsed="true">
+    <Position X="18.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAEABAAAAoQAQAAAAEIgAYAAAAAABQAAAEAAAAA=</HashCode>
+      <FileName>Map.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameProject.PlayerClass" Collapsed="true">
+    <Position X="7.25" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAIEAACAAAAEAAAEAEAAIAAAAQAAAAAAAIAE=</HashCode>
+      <FileName>PlayerClass.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameProject.Program" Collapsed="true">
+    <Position X="16.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameProject.RectangleHelper" Collapsed="true">
+    <Position X="18.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAIAAAAAIAIAA=</HashCode>
+      <FileName>RectangleHelper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameProject.Tiles" Collapsed="true">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAgAAAgAAAAAAACAAAAAgAgAAAAAAAAAAAAA=</HashCode>
+      <FileName>Tiles.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameProject.CollisionTiles" Collapsed="true">
+    <Position X="5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Tiles.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameProject.NonCollidable" Collapsed="true">
+    <Position X="9.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Tiles.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameProject.AnimatedTiles" Collapsed="true">
+    <Position X="11.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAgBAAAAAAIAAAAAAAAAAAAAQAAAAAAA=</HashCode>
+      <FileName>Tiles.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameProject.CrumbleTiles" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Tiles.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameProject.TimedTiles" Collapsed="true">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Tiles.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameProject.MovableTile" Collapsed="true">
+    <Position X="7.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Tiles.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="GameProject.Direction" Collapsed="true">
+    <Position X="16.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAABAAQ=</HashCode>
+      <FileName>GraphicsClass.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="GameProject.playerState" Collapsed="true">
+    <Position X="18.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAA=</HashCode>
+      <FileName>PlayerClass.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
